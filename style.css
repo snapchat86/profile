@@ -1,0 +1,44 @@
+.fa-brands
+{
+    font-size:30px;
+    background-color: white;
+}
+
+button
+{
+    font-size:25px;
+    background-color:black;
+    color:white;
+    border-radius: 50px;
+    float:right;
+    
+}
+.gap
+{
+    margin-top: 300px;
+}
+.h1
+{
+  font-size: 60px;  
+}
+.h2
+{
+    font-size: 25px;
+}
+.new
+{
+    float: left;
+    font-size: 15px;
+    background-color: dodgerblue
+}
+.img
+{
+    float: right
+}
+.profile
+{
+    font-family: 'Open Sans', sans-serif;
+   float: left;
+    font-size:50px;
+    background-size: 60px;
+}
